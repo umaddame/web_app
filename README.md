@@ -13,4 +13,4 @@
 **Используемые технологии:**
 ASP.NET Core MVC 5.0, Bootstrap 5.1, C# 9.0, ASP.NET Razor 3.2.7, MS SQL Server 2019
 
-Исходный код проекта находится [здесь]
+Исходный код проекта находится [здесь](https://github.com/umaddame/web_app/tree/main/web_app)
